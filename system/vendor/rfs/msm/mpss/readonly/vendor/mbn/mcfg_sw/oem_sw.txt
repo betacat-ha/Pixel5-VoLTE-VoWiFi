@@ -62,6 +62,7 @@ mcfg_sw/Pixel/China/ct/lab/noapn_vo/mcfg_sw.mbn
 mcfg_sw/Pixel/China/ct/lab/test_eps/mcfg_sw.mbn
 mcfg_sw/Pixel/China/ct/lab/test_no_/mcfg_sw.mbn
 mcfg_sw/Pixel/China/ct/lab/volte_co/mcfg_sw.mbn
+mcfg_sw/Pixel/China/CBN/Commercial/China/mcfg_sw.mbn
 mcfg_sw/Pixel/common/Default/Default/mcfg_sw.mbn
 mcfg_sw/Pixel/common/ROW/Commercial/mcfg_sw.mbn
 mcfg_sw/Pixel/common/W_One/Commercial/mcfg_sw.mbn
