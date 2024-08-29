@@ -7,7 +7,7 @@ mcfg_sw/generic/Pixel/China/CMHK/Commercial/HK/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/China/CU/Commercial/VoLTE/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/China/CT/Commercial/hVoLTE_OpenMkt/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/China/CT/Commercial/VoLTE_OpenMkt/mcfg_sw.mbn
-mcfg_sw/generic/Pixel/CBN/Commercial/China/mcfg_sw.mbn
+mcfg_sw/generic/Pixel/China/CBN/Commercial/China/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/TMO/Commercial/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/ATT/FirstNet/mcfg_sw.mbn
 mcfg_sw/generic/Pixel/NA/Sprint/Commercial/mcfg_sw.mbn
